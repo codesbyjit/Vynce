@@ -47,11 +47,17 @@ vynce/
 
 ---
 
+## 📊 Diagram
+
+![Vynce Architecture](dig.png)
+
+---
+
 ## 🚧 Roadmap
 
-- [ ] Implement secure user authentication  
-- [ ] Integrate Redis Pub/Sub for live messaging  
-- [ ] Build responsive chat UI with message threads  
+- [*] Implement secure user authentication  
+- [*] Integrate Redis Pub/Sub for live messaging  
+- [-] Build responsive chat UI with message threads  
 - [ ] Add media upload and emoji reactions  
 - [ ] Deploy scalable monorepo to cloud
 
